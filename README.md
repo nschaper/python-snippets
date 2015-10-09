@@ -1,6 +1,13 @@
 # python-snippets
 Commonly used Python3 code snippets
 
+## Quick Reference Links
+
+* [Python 3 — Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)
+* [Python 3 Basic Reference Card](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-v1.0.5a-english.pdf)
+* [Python 3.2 Reference Card](https://perso.limsi.fr/pointal/_media/python:cours:abregepython-english.pdf)
+
+
 ## Documentation Links
 selected links from:  https://docs.python.org/3.4/contents.html 
 
